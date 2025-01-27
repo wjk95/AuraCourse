@@ -4,6 +4,9 @@ Intermediate
 Saved
 Build
 Plugins/Developer/RiderLink
+Plugins/.DS_Store
+Plugins/Developer/.DS_Store
+.DS_Store
 .idea/*
 .vscode
 .vs
