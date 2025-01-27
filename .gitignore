@@ -3,6 +3,8 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Plugins/Developer/RiderLink
+.idea/*
 .vscode
 .vs
 *.VC.db
